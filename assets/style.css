@@ -1,0 +1,11 @@
+
+div.pizza-box {
+    background-color: #ecf0f1;
+    padding: 15px 20px;
+    margin: 20px 0px;
+}
+
+div.pizza-box p, div.pizza-box h4 {
+    margin: 0;
+}
+
